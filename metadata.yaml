@@ -1,4 +1,8 @@
 _repo: Nein-und-Ja-Roman_47797
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47797-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Flake, Otto
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43681
     wikipedia: https://de.wikipedia.org/wiki/Otto_Flake
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47797#Nein-und-Ja-Roman
 gutenberg_issued: '2014-12-28'
 gutenberg_type: Text
 identifiers:
